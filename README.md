@@ -1,6 +1,6 @@
 # WorkSafe IoT
 
-Integrantes: 
+**Integrantes:**
 - Vinicius Silva - RM553240
 - Victor Didoff - RM552965
 - Matheus Zottis - RM94119
@@ -12,14 +12,13 @@ WorkSafe IoT é um protótipo de estação de monitoramento ambiental e bem‑es
 
 ---
 
-## Estrutura do repositório (arquivos entregáveis)
+## Estrutura do repositório 
 
 * `README.md` (este arquivo)
 * `src/WorkSafeIoT.ino` — código principal para ESP32
-* `wokwi/` — instruções e assets para criar o projeto no Wokwi (não contém código em texto neste README)
-* `node-red/WorkSafe_NodeRED_flow.json` — fluxo exportável do Node-RED
+* `WorkSafe_NodeRED_flow.json` — fluxo exportável do Node-RED
 * `docs/` — imagens do circuito, prints do Wokwi e screenshots do dashboard
-* `video/` — roteiro e sugestões de gravação para o vídeo de até 3 minutos
+* `video/` — vídeo de até 3 minutos
 
 ---
 
@@ -50,7 +49,7 @@ O fluxo Node-RED usa esses tópicos para montar um dashboard com gráficos, indi
 
 ---
 
-## Como usar (resumo)
+## Como usar
 
 1. Abra o Wokwi e crie um novo projeto ESP32.
 2. Adicione os componentes listados na seção "Componentes".
@@ -60,10 +59,3 @@ O fluxo Node-RED usa esses tópicos para montar um dashboard com gráficos, indi
 
 ---
 
-## Entrega/Checklist para avaliação
-
-* Link do Wokwi (projeto público) — **incluir na submissão**
-* README completo (este arquivo) — instruções e imagens
-* Código fonte comentado (arquivo `.ino`) — em `src/`
-* Link para o fluxo Node-RED exportado (arquivo JSON)
-* Vídeo de até 3 minutos demonstrando o problema, protótipo e resultados
