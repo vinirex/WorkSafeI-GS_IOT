@@ -6,6 +6,7 @@
 - Matheus Zottis - RM94119
 
 **Projeto:** WorkSafe IoT — SmartWorkCare (Global Solutions 2025)
+
 **Link:** https://wokwi.com/projects/447920966323106817
 
 **Resumo rápido**
