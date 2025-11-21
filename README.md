@@ -6,6 +6,7 @@
 - Matheus Zottis - RM94119
 
 **Projeto:** WorkSafe IoT — SmartWorkCare (Global Solutions 2025)
+**Link:** https://wokwi.com/projects/447920966323106817
 
 **Resumo rápido**
 WorkSafe IoT é um protótipo de estação de monitoramento ambiental e bem‑estar para ambientes de trabalho híbridos. Implementado com **ESP32**, sensores (DHT22, PIR, LDR) e atuadores (LED RGB + buzzer), ele publica dados via **MQTT** para um servidor/ dashboard (ex.: Node-RED). O objetivo é demonstrar como IoT pode aumentar saúde, conforto e produtividade no "Futuro do Trabalho".
