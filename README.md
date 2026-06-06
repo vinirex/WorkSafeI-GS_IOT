@@ -235,7 +235,7 @@ O vídeo apresenta:
 - Funcionamento dos sensores
 - LEDs e buzzer
 - Interface Web
-**Link** [Video](https://canva.link/8nf1fup5wi0bezj)
+- **Link:**  [Video](https://canva.link/8nf1fup5wi0bezj)
 ---
 
 
