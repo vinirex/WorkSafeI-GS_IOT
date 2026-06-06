@@ -1,0 +1,5 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+tinyml4all
+DHT sensor library for ESPx
