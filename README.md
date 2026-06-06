@@ -7,7 +7,7 @@
 
 **Projeto:** WorkSafe IoT — SmartWorkCare (Global Solutions 2025)
 
-**Link:** https://wokwi.com/projects/447920966323106817
+**Link:** [Wokwi|Projects](https://wokwi.com/projects/466046417375426561)
 
 **Resumo rápido**
 WorkSafe IoT é um protótipo de estação de monitoramento ambiental e bem‑estar para ambientes de trabalho híbridos. Implementado com **ESP32**, sensores (DHT22, PIR, LDR) e atuadores (LED RGB + buzzer), ele publica dados via **MQTT** para um servidor/ dashboard (ex.: Node-RED). O objetivo é demonstrar como IoT pode aumentar saúde, conforto e produtividade no "Futuro do Trabalho".
@@ -33,6 +33,8 @@ WorkSafe IoT é um protótipo de estação de monitoramento ambiental e bem‑es
 * LED RGB comum (três resistores 220Ω)
 * Buzzer (passivo)
 * Jumpers e breadboard
+
+<img width="733" height="636" alt="image" src="https://github.com/user-attachments/assets/8693ab0c-a4db-4378-b189-ebabff3aa0c6" />
 
 ---
 
