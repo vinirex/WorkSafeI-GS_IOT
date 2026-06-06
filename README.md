@@ -233,13 +233,9 @@ O vídeo apresenta:
 - Estrutura do projeto
 - Circuito montado no Wokwi
 - Funcionamento dos sensores
-- Classificação TinyML
 - LEDs e buzzer
 - Interface Web
-- Explicação da solução
-
-Tempo máximo: **3 minutos**
-
+**Link** [Video](https://canva.link/8nf1fup5wi0bezj)
 ---
 
 
